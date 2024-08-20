@@ -1,41 +1,26 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
 # NomedoProjeto
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0088168  |  Guilherme Aguera de la Fuente Vilela |
+| 20/2023805  |  João Paulo Barros de Cristo |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Um código que lista certas músicas e pede para o usuário ordenar elas pela ordem que mais gosta, após isso conta as inversões com outros perfis e retorna qual o perfil mais adequado ao usuário.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: Python<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Ler as músicas sugeridas e ordenar elas por ordem de gosto
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
